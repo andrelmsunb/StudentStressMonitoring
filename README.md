@@ -156,7 +156,7 @@ Abra o arquivo `notebooks/MVP_Student_Stress_Monitoring.ipynb` no Google Colab o
 
 ## 👥 Contribuições
 
-Este projeto foi desenvolvido como parte da avaliação da disciplina de Pós-Graduação em Engenharia Elétrica da UnB, demonstrando a aplicação prática de técnicas de Machine Learning em problemas reais de saúde mental estudantil.
+Este projeto demonstra a aplicação prática de técnicas de Machine Learning em problemas reais de saúde mental estudantil.
 
 ## 📄 Licença
 

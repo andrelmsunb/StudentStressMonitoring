@@ -2,7 +2,7 @@
 
 **Universidade de Brasília (UnB)**  
 **Programa de Pós-Graduação Profissional em Engenharia Elétrica (UnB)**  
-**Instituto de Ciencias Matematicas e de Computação - (USP) **
+**Instituto de Ciencias Matematicas e de Computação - (USP) 
 **Professor:** Dr. Andre Luiz Marques Serrano  
 
 
